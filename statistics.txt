@@ -1,0 +1,4 @@
+Statistiques des scores:
+Moyenne: 86.2
+Médiane: 86.0
+Écart-type: 6.262671365446134
